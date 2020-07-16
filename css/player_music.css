@@ -1,7 +1,7 @@
 #QPlayer {
 	position:fixed;
 	overflow:hidden;
-	top:50px;
+	top:100px;
 	left:-250px;
 	transition:transform .5s ease;
 }
@@ -9,7 +9,7 @@
 	float:left;
 	margin-top:8px;
 }
-#QPlayer .right {
+#QPlayer .right_mu {
 	float:right;
 	margin-top:-17px;
 }
@@ -134,10 +134,10 @@
 	position:absolute;
 	left:118px;
 }
-#player .ctrl .progress {
+#player .ctrl .progressss {
 	margin-top:12px;
 }
-#player .ctrl .progress .timer {
+#player .ctrl .progressss .timer {
 	font-size:12px;
 	color:#5f5f5f;
 	margin:0;
